@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-mocha-nu-32.vercel.app/api?username=rhueno&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="rhueno's GitHub stats" />
+  <img src="https://github-readme-stats-mocha-nu-32.vercel.app/api?username=rhueno&show_icons=true&theme=transparent&hide_border=true" alt="rhueno's GitHub stats" />
 </div>
 
 <br>
