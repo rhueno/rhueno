@@ -1,7 +1,7 @@
 <h3 align="center">Java Bytecode Lover</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-mocha-nu-32.vercel.app/api?username=rhueno&show_icons=true&theme=transparent&hide_border=true&title_color=ff4f9a&ring_color=ff4f9a&icon_color=ff4f9a&text_color=8b949e" alt="rhueno's GitHub stats" />
+  <img src="https://github-readme-stats-mocha-nu-32.vercel.app/api?username=rhueno&show_icons=true&theme=transparent&hide_border=true&title_color=ff4f9a&ring_color=ff4f9a&icon_color=ff4f9a&text_color=8b949e&cache_seconds=300" alt="rhueno's GitHub stats" />
 </div>
 
 <br>
